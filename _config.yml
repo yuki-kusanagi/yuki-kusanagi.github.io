@@ -1,0 +1,12 @@
+title: Yuki Kusanagi
+email: yuki.kusanagi@tuta.io
+description:
+baseurl: ""
+url: "https://yuki-kusanagi.github.io"
+twitter_username: yukihime93
+github_username:  yuki-kusanagi
+markdown: kramdown
+theme: jekyll-swiss
+theme_color: yellow
+plugins:
+  - jekyll-feed

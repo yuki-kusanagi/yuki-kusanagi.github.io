@@ -10,6 +10,8 @@ yuki.kusanagi@tuta.io ([0x9F95BE7F2461D78B](https://pgp.key-server.io/download/0
 
 1993-08, NEET Girl
 
+Keybase: [yukikusanagi](https://keybase.io/yukikusanagi)
+
 Github: [yuki-kusanagi](https://github.com/yuki-kusanagi)
 
 Twitter: [@yukihime93](https://twitter.com/yukihime93)

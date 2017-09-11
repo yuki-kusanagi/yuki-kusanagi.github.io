@@ -5,8 +5,9 @@ baseurl: ""
 url: "https://yuki-kusanagi.github.io"
 twitter_username: yukihime93
 github_username:  yuki-kusanagi
+facebook_username: yuki.kusanagi.161
+pixiv_username: yukikusanagi
+instagram_username: yukihime93
 markdown: kramdown
-theme: jekyll-swiss
-theme_color: yellow
 plugins:
   - jekyll-feed

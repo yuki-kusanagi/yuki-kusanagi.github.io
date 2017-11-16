@@ -7,7 +7,7 @@ GPG key `Yuki Kusanagi <yuki.kusanagi@tuta.io> (0x2461D78B)` is revoked due to [
 
 View [https://pgp.key-server.io/search/0x9F95BE7F2461D78B](https://pgp.key-server.io/search/0x9F95BE7F2461D78B) for details.
 
-If you've ever imported this key, please update your keyring from key server, or import revocation manually:
+If you've ever imported this key, please update it from key server, or import this revocation certificate manually:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
